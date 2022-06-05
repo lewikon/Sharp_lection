@@ -1,0 +1,15 @@
+/Users/alina/Desktop/C/example_005_ifelse/obj/Debug/net6.0/example_005_ifelse.csproj.AssemblyReference.cache
+/Users/alina/Desktop/C/example_005_ifelse/obj/Debug/net6.0/example_005_ifelse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alina/Desktop/C/example_005_ifelse/obj/Debug/net6.0/example_005_ifelse.AssemblyInfoInputs.cache
+/Users/alina/Desktop/C/example_005_ifelse/obj/Debug/net6.0/example_005_ifelse.AssemblyInfo.cs
+/Users/alina/Desktop/C/example_005_ifelse/obj/Debug/net6.0/example_005_ifelse.csproj.CoreCompileInputs.cache
+/Users/alina/Desktop/C/example_005_ifelse/bin/Debug/net6.0/example_005_ifelse
+/Users/alina/Desktop/C/example_005_ifelse/bin/Debug/net6.0/example_005_ifelse.deps.json
+/Users/alina/Desktop/C/example_005_ifelse/bin/Debug/net6.0/example_005_ifelse.runtimeconfig.json
+/Users/alina/Desktop/C/example_005_ifelse/bin/Debug/net6.0/example_005_ifelse.dll
+/Users/alina/Desktop/C/example_005_ifelse/bin/Debug/net6.0/example_005_ifelse.pdb
+/Users/alina/Desktop/C/example_005_ifelse/obj/Debug/net6.0/example_005_ifelse.dll
+/Users/alina/Desktop/C/example_005_ifelse/obj/Debug/net6.0/refint/example_005_ifelse.dll
+/Users/alina/Desktop/C/example_005_ifelse/obj/Debug/net6.0/example_005_ifelse.pdb
+/Users/alina/Desktop/C/example_005_ifelse/obj/Debug/net6.0/example_005_ifelse.genruntimeconfig.cache
+/Users/alina/Desktop/C/example_005_ifelse/obj/Debug/net6.0/ref/example_005_ifelse.dll
