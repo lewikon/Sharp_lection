@@ -2,8 +2,8 @@
 int number = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите большее число:");
 int square = Convert.ToInt32(Console.ReadLine());
-int result = square / number;
-if(number == result)
+int result = number * number;
+if(square == result)
 {
     Console.WriteLine("Число " + square + " является квадратом числа " + number);
 }
