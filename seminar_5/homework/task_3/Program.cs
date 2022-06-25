@@ -13,7 +13,6 @@ Console.WriteLine();
 
 int max = array[0];
 int min = array[0];
-
 for(int i = 0; i < array.Length; i++)
 {
     if(array[i] < min)
@@ -28,6 +27,6 @@ for(int i = 0; i < array.Length; i++)
         }
     }
 }
-
 Console.WriteLine("min = " + min);
 Console.WriteLine("max = " + max);
+Console.WriteLine("Разница между минимумом и максимумом: " + (max - min) );
