@@ -1,7 +1,6 @@
 ﻿Console.Write("Введите число: ");
-int number = Convert.ToInt32(Console.ReadLine());
+int searchNumber = Convert.ToInt32(Console.ReadLine());
 int[] array = new int[10];
-int count = 0;
 
 for(int i = 0; i < array.Length; i++)
 {
@@ -10,17 +9,21 @@ for(int i = 0; i < array.Length; i++)
 }
 Console.WriteLine();
 
-for(int i = 0; i < array.Length; i++)
+if (FindNumber (array, searchNumber))
 {
-    if(array[i] == number || array[i] * -1 == number)
-    {
-        count++;
-        Console.WriteLine("да");
-        break;
-    }
+    Console.WriteLine("Yes");
 }
-if(count == 0)
+else 
 {
-   Console.WriteLine("нет"); 
+Console.WriteLine("No");
 }
 
+bool FindNumber(int[] array1, int number1)
+{
+    for(int i = 0; i < array1.Length; i++)
+    {
+        if (array1[i] == number1 || array1[i] * -1 == number1)
+        return true;
+    }
+    return false;
+}
