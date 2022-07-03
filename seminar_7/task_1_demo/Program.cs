@@ -37,7 +37,7 @@ for(int i =  0; i < numbers.Length; i++)
 {
     if(numbers[i] < 0) count++;
 }
-Console.WriteLine(count);
+Console.WriteLine("отрицательных чисел в строке:" + count);
 
 
 
