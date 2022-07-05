@@ -22,6 +22,7 @@ for(int i = 0; i < numbers.GetLength(0); i++)
 }
 PrintArray(numbers);
 Console.WriteLine();
+Console.WriteLine();
 int[,] tempNumbers = new int[m,n];
 
 for(int l = 0; l < numbers.GetLength(1); l++)
