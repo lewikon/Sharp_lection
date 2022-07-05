@@ -1,0 +1,15 @@
+/Users/alina/Desktop/C/seminar_8/bin/Debug/net6.0/seminar_8
+/Users/alina/Desktop/C/seminar_8/bin/Debug/net6.0/seminar_8.deps.json
+/Users/alina/Desktop/C/seminar_8/bin/Debug/net6.0/seminar_8.runtimeconfig.json
+/Users/alina/Desktop/C/seminar_8/bin/Debug/net6.0/seminar_8.dll
+/Users/alina/Desktop/C/seminar_8/bin/Debug/net6.0/seminar_8.pdb
+/Users/alina/Desktop/C/seminar_8/obj/Debug/net6.0/seminar_8.csproj.AssemblyReference.cache
+/Users/alina/Desktop/C/seminar_8/obj/Debug/net6.0/seminar_8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alina/Desktop/C/seminar_8/obj/Debug/net6.0/seminar_8.AssemblyInfoInputs.cache
+/Users/alina/Desktop/C/seminar_8/obj/Debug/net6.0/seminar_8.AssemblyInfo.cs
+/Users/alina/Desktop/C/seminar_8/obj/Debug/net6.0/seminar_8.csproj.CoreCompileInputs.cache
+/Users/alina/Desktop/C/seminar_8/obj/Debug/net6.0/seminar_8.dll
+/Users/alina/Desktop/C/seminar_8/obj/Debug/net6.0/refint/seminar_8.dll
+/Users/alina/Desktop/C/seminar_8/obj/Debug/net6.0/seminar_8.pdb
+/Users/alina/Desktop/C/seminar_8/obj/Debug/net6.0/seminar_8.genruntimeconfig.cache
+/Users/alina/Desktop/C/seminar_8/obj/Debug/net6.0/ref/seminar_8.dll
