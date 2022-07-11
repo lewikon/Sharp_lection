@@ -17,7 +17,7 @@ void Reverse (char[] line)
     while(line[i] < line.Length/2)
     {
         char[] temp = new char[line.Length];
-        if (line [i] = ',') continue;
+        if (line [i] == ',') continue;
         temp[i] = line[i];
         line[i] = line[line.Length-i-1];
         line[line.Length-i-1] = temp[i];
